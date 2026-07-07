@@ -27,6 +27,12 @@
   padding: 0;
 }
 
+html, body{
+  margin: 0;
+  padding: 0;
+  background: var(--tm-black);
+}
+
 .tm-wrap{
   background: var(--tm-black);
   color: var(--tm-parchment);
