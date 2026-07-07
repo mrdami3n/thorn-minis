@@ -273,7 +273,7 @@ html, body{
   top: 4px; left: 14px;
   line-height: 1;
 }
-.tm-quote p{ padding-left: 6px; color: var(--tm-parchment); font-style: italic; }
+.tm-quote p{ padding-left: 6px; color: var(--tm-parchment); font-style: normal; font-size: 16.5px; line-height: 1.65; }
 .tm-quote-meta{
   display: flex;
   justify-content: space-between;
