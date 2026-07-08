@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* ============================================================
    THORN MINIS — eBay listing template stylesheet
    Host this file on your own server / CDN and reference it
@@ -185,7 +187,7 @@ html, body{
   color: var(--tm-parchment);
 }
 .tm-panel li::before{
-  content: "▸";
+  content: "\25B8";
   position: absolute; left: 0;
   color: var(--tm-red);
 }
